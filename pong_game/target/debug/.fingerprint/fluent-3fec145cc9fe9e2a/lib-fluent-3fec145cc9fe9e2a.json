@@ -1,0 +1,1 @@
+{"rustc":8427573639476503995,"features":"[]","target":1906419422947902010,"profile":7990393541957723157,"path":3858972032147284183,"deps":[["ansi_term v0.10.2","ansi_term",8878411268532214249],["fluent-locale v0.3.2","fluent_locale",6656875019696064331],["getopts v0.2.18","getopts",6871426997252867403]],"local":[{"Precalculated":"0.2.0"}],"rustflags":[],"edition":"Edition2015"}

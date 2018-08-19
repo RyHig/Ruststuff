@@ -1,0 +1,1 @@
+{"rustc":8427573639476503995,"features":"[]","target":7972070316839662192,"profile":7282077418741342047,"path":16238458731248499358,"deps":[["bitflags v0.7.0","bitflags",1553401134431541723],["time v0.1.40","time",16497362210176891241]],"local":[{"Precalculated":"0.1.1"}],"rustflags":[],"edition":"Edition2015"}

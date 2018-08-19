@@ -1,0 +1,1 @@
+{"rustc":8427573639476503995,"features":"[]","target":10108399065253331662,"profile":7990393541957723157,"path":17939485021119277695,"deps":[["error-chain v0.11.0","error_chain",11828381743556468007],["xcb v0.8.2","xcb",16226083658957463558]],"local":[{"Precalculated":"0.2.2"}],"rustflags":[],"edition":"Edition2015"}
